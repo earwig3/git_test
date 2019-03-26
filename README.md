@@ -1,0 +1,1 @@
+This is Earwig3's first git project!
